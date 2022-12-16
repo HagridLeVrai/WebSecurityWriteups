@@ -30,3 +30,5 @@ With this project we discovered the common security vulnerabilities encountered 
 - [Obfuscation](obfuscation.md)
 - [Auth](Auth.md)
 - [LFI](LFI.md)
+- [JS](JS.md)
+- [42](42.md)
