@@ -29,3 +29,4 @@ With this project we discovered the common security vulnerabilities encountered 
 - [Mythique](mythique.md)
 - [Obfuscation](obfuscation.md)
 - [Auth](Auth.md)
+- [LFI](LFI.md)
