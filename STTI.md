@@ -5,7 +5,7 @@
 
   
 
-####  For understanding SSTI (Server Side Template Injection), I googled it and fond this page. 
+####  For understanding SSTI (Server Side Template Injection), I googled it and found this page. 
 https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection
 #### Then I checked on github if I can find a tool that find and use vulnerabilities.
 https://github.com/epinna/tplmap
