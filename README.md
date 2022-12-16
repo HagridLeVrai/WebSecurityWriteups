@@ -31,4 +31,5 @@ With this project we discovered the common security vulnerabilities encountered 
 - [Auth](Auth.md)
 - [LFI](LFI.md)
 - [JS](JS.md)
+- [XSS](XSS.md)
 - [42](42.md)
