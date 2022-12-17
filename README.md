@@ -32,6 +32,7 @@ With this project we discovered the common security vulnerabilities encountered 
 - [LFI](LFI.md)
 - [JS](JS.md)
 - [XSS](XSS.md)
+- [XXE](XXE.md)
 - [Graphql](graphql.md)
 - [OpenField](Openfield.md)
 - [42](42.md)
